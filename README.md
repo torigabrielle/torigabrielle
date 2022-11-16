@@ -39,5 +39,6 @@
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <a><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <a><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  
-  </div>
+</div>
+
+![snake gif](https://github.com/torigabrielle/torigabrielle/blob/output/github-contribution-grid-snake.svg)
