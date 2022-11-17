@@ -27,8 +27,8 @@
 ##
 <div>
  <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torigabrielle&theme=gotham" alt="victoria">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=torigabrielle&show_icons=true&theme=gotham" alt="Victoria-2">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=torigabrielle&show_icons=true&theme=gotham" alt="victoria">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torigabrielle&layout=compact&theme=gotham" alt="Victoria-2">
   </p>
 </div>
 
