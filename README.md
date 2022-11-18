@@ -15,7 +15,7 @@
 
 -  Estou estudando bastante sobre Front-End.
 
--  Fun-act: Meus filmes favorito são Avatar(2009) e The Hobbit 3.
+-  Fun-act: Meus filmes favoritos são Avatar(2009) e The Hobbit 3.
 
 - White Noise e Samba são os melhores companheiros de estudo.
 
