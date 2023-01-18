@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou Victória Gabrielle</h1>
 <div align="center">
   <a href="https://github.com/torigabrielle">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=torigabrielle&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torigabrielle&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=torigabrielle&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torigabrielle&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <h3 align="center">Estudante de A.D.S, iniciante em Front-End e futura desenvolvedora</h3>
 <img align="right" alt="me" width="280" height="280" src="https://cdn.discordapp.com/attachments/893543990161461322/1041078460585623643/70iktt.gif">
