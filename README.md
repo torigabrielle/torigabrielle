@@ -5,19 +5,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torigabrielle&layout=compact&langs_count=7&theme=dark">
 </div>
 <h3 align="center">Estudante de A.D.S, iniciante em Front-End e futura desenvolvedora</h3>
-<img align="right" alt="me" width="280" height="280" src="https://cdn.discordapp.com/attachments/893543990161461322/1041078460585623643/70iktt.gif">
+<img align="right" alt="me" width="280" height="280" src="https://media.discordapp.net/attachments/893543990161461322/1073407619940757534/7amj0a.gif?width=382&height=382">
 
 - Pra começar você pode me chamar de **Tori** (Tôri ou Torí fica por sua pronuncia)
 
 -  Recentemente estou aprendendo **JavaScript**
 
--  A próxima parada é **python**
+-  A próxima parada é **UI/UX Design**
 
 -  Estou estudando bastante sobre Front-End.
 
 -  Fun-act: Meus filmes favoritos são Avatar(2009) e The Hobbit 3.
 
-- White Noise e Samba são os melhores companheiros de estudo.
 
 
 
