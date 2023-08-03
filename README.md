@@ -7,15 +7,11 @@
 <h3 align="center">Estudante de A.D.S, iniciante em Front-End e futura desenvolvedora</h3>
 <img align="right" alt="me" width="280" height="280" src="https://media.discordapp.net/attachments/893543990161461322/1088733642961985576/7fo1z6.gif?width=233&height=233">
 
-- Pra começar você pode me chamar de **Tori** (Tôri ou Torí fica por sua pronuncia)
+- Sou Formada em Análise e Desenvolvimento de Sistemas
 
--  Recentemente estou aprendendo **JavaScript**
+- Estou estudando bastante sobre Front-End.
 
--  A próxima parada é **UI/UX Design**
-
--  Estou estudando bastante sobre Front-End.
-
--  Fun-act: Meus filmes favoritos são Avatar(2009) e The Hobbit 3.
+- Alpha Prime, Zero Dawn Project. 
 
 
 
