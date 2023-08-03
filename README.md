@@ -5,13 +5,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torigabrielle&layout=compact&langs_count=7&theme=dark">
 </div>
 <h3 align="center">Estudante de A.D.S, iniciante em Front-End e futura desenvolvedora</h3>
-<img align="right" alt="me" width="280" height="280" src="https://media.discordapp.net/attachments/893543990161461322/1088733642961985576/7fo1z6.gif?width=233&height=233">
+<img align="right" alt="me" width="245" height="245" src="https://media.discordapp.net/attachments/893543990161461322/1088733642961985576/7fo1z6.gif?width=233&height=233">
 
 - Sou Formada em Análise e Desenvolvimento de Sistemas
 
 - Estou estudando bastante sobre Front-End.
 
-- Alpha Prime, Zero Dawn Project. 
+- Metahuman Big Fan
+
+- Alpha Prime, Zero Dawn Project.
+
 
 
 
@@ -35,4 +38,3 @@
 <a><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
-![snake gif](https://github.com/torigabrielle/torigabrielle/blob/output/github-contribution-grid-snake.svg)
