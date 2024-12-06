@@ -1,5 +1,3 @@
-<img src="a2.png"> 
-<h1 align="left">👋 omg hii</h1>
 
 <h2 align="left">About me</h2>
 
