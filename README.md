@@ -28,8 +28,12 @@
 
 ## Bear with Me
 
- ![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=wew9qnv8srmvf8ddrkupui4pq)
- 
+![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=wew9qnv8srmvf8ddrkupui4pq)
+<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198964266735&animated_avatar=true"/>
+
+
+
+
  
 <details>
     <summary><h2>My Github Stats</h2></summary>
