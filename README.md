@@ -23,7 +23,7 @@
 
 ### Tools
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=discord,github,git,steam,blender,obsidian,canva,ps,notion&perline=6)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=discord,github,git,blender,obsidian,canva,ps,notion&perline=6)
 
 
 ## Bear with Me
