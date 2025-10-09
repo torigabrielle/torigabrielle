@@ -4,12 +4,19 @@
 
 ## About me
 
-<p align="left">
-  ✨ Creating bugs and drinkin' orange pop since 2002 
-  <br>📚 I'm currently learning 3d Models 
-  <br>🎯 Goals: Become a Rockstar or a really talented tech person
-  <br>🎲 Fun fact: i'm learning Na'vi Language.
+<p>
+  ✨ casting level 4 sorcery since 2002 ✨ 
+  <br>📚 Current book is: Wuthering Heights
+  <br>🎯 Goals: Become a Rockstar or a
+  <br>🎲 Languages: Brazilian-Portuguese, English, Korean and Na'vi
+  <br>🧙‍♀️ Latest News: Built a home server with Ubuntu and CasaOS named Lallybroch.
 </p>
+
+## tori@lallybroch
+OS: Ubuntu 24.04.3 LTS x86_64 <br>
+Usage of /: 16.5% of 912.36GB <br>
+CPU: Intel i5-3230M (4) @ 3.200GHz <br>
+GPU: Intel 3rd Gen Core processor Graphics Controller
 
 ## What's in my Bag?
 
@@ -29,10 +36,6 @@
 ## Bear with Me
 
 ![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=wew9qnv8srmvf8ddrkupui4pq)
-<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198964266735&show_recent_game_bg=true"/>
-<SteamID64here>
-
-
 
  
 <details>
