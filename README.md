@@ -29,8 +29,8 @@
 ## Bear with Me
 
 ![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=wew9qnv8srmvf8ddrkupui4pq)
-<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198964266735&animated_avatar=true"/>
-
+<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198964266735&show_recent_game_bg=true"/>
+<SteamID64here>
 
 
 
