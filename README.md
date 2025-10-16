@@ -1,5 +1,6 @@
 <h3 align="center">✨Hi I'm Tori✨</h3>
-<p align="center">The one and only Tech-Wizard near you</p>
+<p align="center">The one and only Tech-Wizard in your area</p>
+<p align="center">See my orb! 🔮</p>
 
 
 ## About me
