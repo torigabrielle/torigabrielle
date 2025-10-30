@@ -10,7 +10,7 @@
   <br>📚 Current book is: Wuthering Heights
   <br>🎯 Goals: Become a Rockstar or a
   <br>🎲 Languages: Brazilian-Portuguese, English, Korean and Na'vi
-  <br>🧙‍♀️ Latest News: Built a home server with Ubuntu and CasaOS named Lallybroch.
+  <br>🧙‍♀️ Latest News: Server showed up a /dev/sda error. trying to fix it!
 </p>
 
 ## tori@lallybroch
