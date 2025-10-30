@@ -8,7 +8,7 @@
 <p>
   ✨ casting level 4 sorcery since 2002 ✨ 
   <br>📚 Current book is: Wuthering Heights
-  <br>🎯 Goals: Become a Rockstar or a
+  <br>🎯 Goals: Become a Rockstar or Merlin himself
   <br>🎲 Languages: Brazilian-Portuguese, English, Korean and Na'vi
   <br>🧙‍♀️ Latest News: Server showed up a /dev/sda error. trying to fix it!
 </p>
