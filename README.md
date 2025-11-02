@@ -10,7 +10,7 @@
   <br>📚 Current book is: Wuthering Heights
   <br>🎯 Goals: Become a Rockstar or Merlin himself
   <br>🎲 Languages: Brazilian-Portuguese, English, Korean and Na'vi
-  <br>🧙‍♀️ Latest News: Server showed up a /dev/sda error. trying to fix it!
+  <br>🧙‍♀️ Latest News: [02/11] Retrieved data from Lalltybroch's main HDD. Building another environment.
 </p>
 
 ## tori@lallybroch
