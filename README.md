@@ -10,7 +10,7 @@
   <br>📚 Current book is: Wuthering Heights
   <br>🎯 Goals: Become a Rockstar or Merlin himself
   <br>🎲 Languages: Brazilian-Portuguese, English, Korean and Na'vi
-  <br>🧙‍♀️ Latest News: [02/11] Retrieved data from Lalltybroch's main HDD. Building another environment.
+  <br>🧙‍♀️ Latest News: [05/11] Right about now, Lallybroch court is in full effect. Judge tori presiding.
 </p>
 
 ## tori@lallybroch
