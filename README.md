@@ -18,7 +18,6 @@ OS: Ubuntu 24.04.3 LTS x86_64 <br>
 Usage of /: 16.5% of 912.36GB <br>
 CPU: Intel i5-3230M (4) @ 3.200GHz <br>
 RAM: 8GB <br>
-GPU: Intel 3rd Gen Core processor Graphics Controller
 
 ## What's in my Bag?
 
