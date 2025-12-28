@@ -10,7 +10,7 @@
   <br>📚 Current book is: Wuthering Heights
   <br>🎯 Goals: Become a Rockstar or Merlin himself
   <br>🎲 Languages: Brazilian-Portuguese, English, Korean and Na'vi
-  <br>🧙‍♀️ Latest News: [28/12] Lallbroch is no longer a beat up laptop! He was granted eternal rest.
+  <br>🧙‍♀️ Latest News: [28/12] Lallybroch is no longer a beat up laptop! He was granted eternal rest.
 </p>
 
 ## tori@lallybroch
