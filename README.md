@@ -10,14 +10,12 @@
   <br>📚 Current book is: Wuthering Heights
   <br>🎯 Goals: Become a Rockstar or Merlin himself
   <br>🎲 Languages: Brazilian-Portuguese, English, Korean and Na'vi
-  <br>🧙‍♀️ Latest News: [05/11] Right about now, Lallybroch court is in full effect. Judge tori presiding.
+  <br>🧙‍♀️ Latest News: [28/12] Lallbroch is no longer a beat up laptop! He was granted eternal rest.
 </p>
 
 ## tori@lallybroch
-OS: Ubuntu 24.04.3 LTS x86_64 <br>
-Usage of /: 16.5% of 912.36GB <br>
-CPU: Intel i5-3230M (4) @ 3.200GHz <br>
-RAM: 8GB <br>
+OS: Ubuntu 25.10 <br>
+Usage of /:  23.1% of 1.79TB <br>
 
 ## What's in my Bag?
 
