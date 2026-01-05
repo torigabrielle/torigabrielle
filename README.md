@@ -40,7 +40,7 @@ Usage of /:  23.1% of 1.79TB <br>
 <details>
     <summary><h2>My Github Stats</h2></summary>
     <figure>
-        <img src="https://github-readme-stats.vercel.app/api?username=torigabrielle&hide_border=true&theme=transparent" />
+        <img src="https://github-readme-stats.vercel.app/api?username=torigabrielle&hide_border=true&theme=transparent"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torigabrielle&langs_count=8&layout=compact&hide_border=true&theme=transparent" />
     </figure>
 </details>
