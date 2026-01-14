@@ -15,7 +15,7 @@
 
 ## tori@lallybroch
 OS: Ubuntu 25.10 <br>
-Usage of /:  25.4% of 1.79TB <br>
+Usage of /:  26.1% of 1.79TB <br>
 
 ## What's in my Bag?
 
