@@ -1,7 +1,9 @@
 <h3 align="center">✨Hi I'm Tori✨</h3>
 <p align="center">The one and only Tech-Wizard in your area</p>
-<p align="center">See my orb! 🔮</p>
-<p align="center">Click here!</p/>
+<div align="center">See my orb! 🔮
+  
+![Click here!](https://www.youtube.com/watch?v=fJuapp9SORA&list=RDfJuapp9SORA&start_radio=1)
+</div>
 
 
 ## About me
