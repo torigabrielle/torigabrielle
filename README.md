@@ -13,12 +13,12 @@
   <br>📚 Current book is: Wuthering Heights
   <br>🎯 Goals: Become a Rockstar or Merlin himself
   <br>🎲 Languages: Brazilian-Portuguese, English, Korean and Na'vi
-  <br>🧙‍♀️ Latest News: [28/12] Lallybroch is no longer a beat up laptop! He was granted eternal rest.
+  <br>🧙‍♀️ Latest News: [10/02] my pookie bestie twin is finally on github hooray!!
 </p>
 
-## tori@lallybroch
+## tori@server
 OS: Ubuntu 25.10 <br>
-Usage of /:  26.1% of 1.79TB <br>
+Usage of /:  26.1% of 3.79TB <br>
 
 ## What's in my Bag?
 
