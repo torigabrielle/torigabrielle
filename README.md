@@ -18,7 +18,7 @@
 
 ## tori@server
 OS: Ubuntu 25.10 <br>
-Usage of /:  26.1% of 3.79TB <br>
+Usage of /:  28.3% of 3.79TB <br>
 
 ## What's in my Bag?
 
