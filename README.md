@@ -1,8 +1,11 @@
-<h3 align="center">✨Hi I'm Tori✨</h3>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times&size=21&pause=1000&color=F74833&center=true&width=435&lines=Hi%2C+I'm+Tori;Kaltx%C3%AC%2C+oe'm+tori;%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%8C%E6%88%91%E5%8F%AB%E6%9E%97%E8%83%9C%E5%B2%9A%E3%80%82;Ol%C3%A1%2C+eu+sou+a+Tori)](https://git.io/typing-svg)
+</div>
 <p align="center">The one and only Tech-Wizard in your area</p>
 <div align="center">See my orb! 🔮
   
-[Click here!](https://www.youtube.com/watch?v=fJuapp9SORA&list=RDfJuapp9SORA&start_radio=1)
+  [Click here!](https://www.youtube.com/watch?v=fJuapp9SORA&list=RDfJuapp9SORA&start_radio=1)
 </div>
 
 
@@ -10,9 +13,9 @@
 
 <p>
   ✨ casting level 4 sorcery since 2002 ✨ 
-  <br>📚 Current book is: Wuthering Heights
+    <br>📚 Current book is: Poppy War - RF Kuang
   <br>🎯 Goals: Become a Rockstar or Merlin himself
-  <br>🎲 Languages: Brazilian-Portuguese, English, Korean and Na'vi
+  <br>🎲 Languages: PT-BR, English, Mandarin and Na'vi
   <br>🧙‍♀️ Latest News: [10/02] my pookie bestie twin is finally on github hooray!!
 </p>
 
@@ -40,10 +43,3 @@ Usage of /:  28.3% of 3.79TB <br>
 ![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=wew9qnv8srmvf8ddrkupui4pq)
 
  
-<details>
-    <summary><h2>My Github Stats</h2></summary>
-    <figure>
-        <img src="https://github-readme-stats.vercel.app/api?username=torigabrielle&hide_border=true&theme=transparent"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torigabrielle&langs_count=8&layout=compact&hide_border=true&theme=transparent" />
-    </figure>
-</details>
