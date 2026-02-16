@@ -3,7 +3,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times&size=21&pause=1000&color=F74833&center=true&width=435&lines=Hi%2C+I'm+Tori;Kaltx%C3%AC%2C+oe'm+tori;%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%8C%E6%88%91%E5%8F%AB%E6%9E%97%E8%83%9C%E5%B2%9A%E3%80%82;Ol%C3%A1%2C+eu+sou+a+Tori)](https://git.io/typing-svg)
 </div>
 <p align="center">The one and only Tech-Wizard in your area</p>
-<div align="center">See my orb! 🔮
+<div align="center">See my orb!! 🔮
   
   [Click here!](https://www.youtube.com/watch?v=fJuapp9SORA&list=RDfJuapp9SORA&start_radio=1)
 </div>
@@ -41,5 +41,3 @@ Usage of /:  28.3% of 3.79TB <br>
 ## Bear with Me
 
 ![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=wew9qnv8srmvf8ddrkupui4pq)
-
- 
