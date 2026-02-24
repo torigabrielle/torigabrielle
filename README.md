@@ -16,7 +16,7 @@
     <br>📚 Current book is: Poppy War - RF Kuang
   <br>🎯 Goals: Become a Rockstar or Merlin himself
   <br>🎲 Languages: PT-BR, English, Mandarin and Na'vi
-  <br>🧙‍♀️ Latest News: [10/02] my pookie bestie twin is finally on github hooray!!
+  <br>🧙‍♀️ Latest News: [24/02] chateado por causa de algumas pessoas. Elas sabem quem são.
 </p>
 
 ## tori@server
@@ -27,7 +27,7 @@ Usage of /:  28.3% of 3.79TB <br>
 
 ### Environment
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fedora,vscode,firefox,ubuntu,systemd,tailscale&perline=7)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fedora,vscode,firefox,ubuntu,systemd,tailscale,pycharm&perline=7)
 
 ### Languages
 
@@ -41,3 +41,6 @@ Usage of /:  28.3% of 3.79TB <br>
 ## Bear with Me
 
 ![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=wew9qnv8srmvf8ddrkupui4pq)
+
+
+ 
