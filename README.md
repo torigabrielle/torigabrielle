@@ -11,16 +11,15 @@
 
 ## About me
 
-<p>
-  ✨ casting level 4 sorcery since 2002 ✨ 
-    <br>📚 Current book is: Poppy War - RF Kuang
+<p>✨ Casting level 4 sorcery since 2002 ✨ 
+  <br>📚 Current book is: Poppy War - RF Kuang
   <br>🎯 Goals: Become a Rockstar or Merlin himself
   <br>🎲 Languages: PT-BR, English, Mandarin and Na'vi
   <br>🧙‍♀️ Latest News: [24/02] chateado por causa de algumas pessoas. Elas sabem quem são.
 </p>
 
 ## tori@server
-OS: Ubuntu 25.10 <br>
+OS: Ubuntu Server 25.10 <br>
 Usage of /:  28.3% of 3.79TB <br>
 
 ## What's in my Bag?
