@@ -36,10 +36,12 @@ Usage of /:  28.3% of 3.79TB <br>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=discord,github,git,blender,obsidian,canva,ps,notion&perline=6)
 
-
 ## Bear with Me
 
 ![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=wew9qnv8srmvf8ddrkupui4pq)
 
 
- 
+<details>
+  <summary>Stats</summary>
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=torigabrielle&layout=compact&hide_title=true&langs_count=6&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=torigabrielle&layout=compact&hide_title=true&langs_count=6&theme=github_dark)
