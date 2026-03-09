@@ -15,7 +15,7 @@
   <br>📚 Current book is: Poppy War - RF Kuang
   <br>🎯 Goals: Become a Rockstar or Merlin himself
   <br>🎲 Languages: PT-BR, English, Mandarin and Na'vi
-  <br>🧙‍♀️ Latest News: [24/02] chateado por causa de algumas pessoas. Elas sabem quem são.
+  <br>🧙‍♀️ Latest News: [09/03] I'm studying python all over again because i can't remember anything. plus i can't download the Arrow Series UGH
 </p>
 
 ## tori@server
