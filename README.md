@@ -12,10 +12,10 @@
 ## About me
 
 <p>✨ Casting level 4 sorcery since 2002 ✨ 
-  <br>📚 Current book is: Poppy War - RF Kuang
+  <br>📚 Current book is: Pachinko by Lee Min Jin
   <br>🎯 Goals: Become a Rockstar or Merlin himself
   <br>🎲 Languages: PT-BR, English, Mandarin and Na'vi
-  <br>🧙‍♀️ Latest News: [09/03] I'm studying python all over again because i can't remember anything. plus i can't download the Arrow Series UGH
+  <br>🧙‍♀️ Latest News: [12/03] Just found out i have just SIX repos on public lol no wonder no one cared for my projects
 </p>
 
 ## tori@server
