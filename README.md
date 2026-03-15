@@ -5,7 +5,7 @@
 <p align="center">The one and only Tech-Wizard in your area</p>
 <div align="center">See my orb!! 🔮
   
-  [Click here!](https://www.youtube.com/watch?v=fJuapp9SORA&list=RDfJuapp9SORA&start_radio=1)
+  [Click here!](https://www.youtube.com/watch?v=LsCjEKbTHCQ)
 </div>
 
 
