@@ -15,7 +15,7 @@
   <br>📚 Current book is: Pachinko by Lee Min Jin
   <br>🎯 Goals: Become a Rockstar or Merlin himself
   <br>🎲 Languages: PT-BR, English, Mandarin and Na'vi
-  <br>🧙‍♀️ Latest News: [12/03] Just found out i have just SIX repos on public lol no wonder no one cared for my projects
+  <br>🧙‍♀️ Latest News: [21/03]니가 사랑하는 나는 sorry I'm a bad boy 그래 차라리 떠나 잘 가요, you're a good girl
 </p>
 
 ## tori@server
