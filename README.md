@@ -15,12 +15,12 @@
   <br>📚 Current book is: Pachinko by Lee Min Jin
   <br>🎯 Goals: Become a Rockstar or Merlin himself
   <br>🎲 Languages: PT-BR, English, Mandarin and Na'vi
-  <br>🧙‍♀️ Latest News: [21/03]니가 사랑하는 나는 sorry I'm a bad boy 그래 차라리 떠나 잘 가요, you're a good girl
+  <br>🧙‍♀️ Latest News: [15/05] Guys calm down! i'm not dead, just studying
 </p>
 
 ## tori@server
 OS: Ubuntu Server 25.10 <br>
-Usage of /:  28.3% of 3.79TB <br>
+Usage of /:  32.1% of 3.79TB <br>
 
 ## What's in my Bag?
 
