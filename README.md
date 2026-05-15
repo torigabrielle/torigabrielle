@@ -5,7 +5,7 @@
 <p align="center">The one and only Tech-Wizard in your area</p>
 <div align="center">See my orb!! 🔮
   
-  [Click here!](https://www.youtube.com/watch?v=LsCjEKbTHCQ)
+  [Click here!](https://www.youtube.com/watch?v=fJuapp9SORA)
 </div>
 
 
@@ -15,10 +15,10 @@
   <br>📚 Current book is: Pachinko by Lee Min Jin
   <br>🎯 Goals: Become a Rockstar or Merlin himself
   <br>🎲 Languages: PT-BR, English, Mandarin and Na'vi
-  <br>🧙‍♀️ Latest News: [15/05] Guys calm down! i'm not dead, just studying
+  <br>🧙‍♀️ Latest News: [15/05] Sweeping the dust off my profile before a big change. stay tuned!!!
 </p>
 
-## tori@server
+## server@home
 OS: Ubuntu Server 25.10 <br>
 Usage of /:  32.1% of 3.79TB <br>
 
