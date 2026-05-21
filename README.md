@@ -15,7 +15,7 @@
   <br>📚 Current book is: Pachinko by Lee Min Jin
   <br>🎯 Goals: Become a Rockstar or Merlin himself
   <br>🎲 Languages: PT-BR, English, Mandarin and Na'vi
-  <br>🧙‍♀️ Latest News: [15/05] Sweeping the dust off my profile before a big change. stay tuned!!!
+  <br>🧙‍♀️ Latest News: [21/05] omg cyberdeck hii!! a few pieces missing but hey, it's all junk.
 </p>
 
 ## server@home
@@ -26,15 +26,19 @@ Usage of /:  32.1% of 3.79TB <br>
 
 ### Environment
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fedora,vscode,firefox,ubuntu,systemd,tailscale,pycharm&perline=7)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fedora,arch,raspberrypi,vscode,firefox,brave,ubuntu,systemd,tailscale,pycharm&perline=7)
 
 ### Languages
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,html,css,js,mysql,python&perline=7)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,html,css,js,mysql,python,c,cpp&perline=7)
 
 ### Tools
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=discord,github,git,blender,obsidian,canva,ps,notion&perline=6)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,github,git,blender,clickup,canva,gimp,&perline=6)
+
+### Back-Pocket
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=discord,steam,obsidian,libreoffice,&perline=6)
 
 ## Bear with Me
 
